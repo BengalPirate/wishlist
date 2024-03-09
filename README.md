@@ -1,4 +1,4 @@
-# Android Project 2 - *NWishlist*
+# Android Project 2 - *Wishlist*
 
 Submitted by: **Brandon Newton**
 
